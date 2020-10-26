@@ -1,0 +1,18 @@
+PODS:
+  - EVReflection (5.10.1):
+    - EVReflection/Core (= 5.10.1)
+  - EVReflection/Core (5.10.1)
+
+DEPENDENCIES:
+  - EVReflection
+
+SPEC REPOS:
+  trunk:
+    - EVReflection
+
+SPEC CHECKSUMS:
+  EVReflection: 8124de482178d34ccd56473e16cd95990f9a1113
+
+PODFILE CHECKSUM: 03c61160c972f8d1f3835d5e18df0d40d3113532
+
+COCOAPODS: 1.9.2
